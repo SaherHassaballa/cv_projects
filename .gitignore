@@ -1,0 +1,6 @@
+# Ignore everything in the data folder
+Identifying and locating flags from aerial photography/data/*
+
+# Except for the backgrounds folder and its contents
+!Identifying and locating flags from aerial photography/data/backgrounds/
+!Identifying and locating flags from aerial photography/data/backgrounds/**
